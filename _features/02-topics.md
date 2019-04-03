@@ -6,46 +6,35 @@ subheading:
 image: 
 ---
 
-1 **Introduction**
+1 **Learning Foundations**
 
-2 **Generalization**
+1.1 Introduction
 
-2.1 Bayesian decision theory
+1.2 Bayesian decision theory
 
-2.2 Estimation
+1.3 Estimation
 
-2.3 Linear models
+1.4 Linear models
 
-2.4 Performance evaluation
+1.5 Design and analysis of ML experiments
 
-3 **Perception and representation**
+2 **Kernel Methods**
 
-3.1 Feature extraction and selection
+2.1 Kernel methods basics
 
-3.2 Kernel methods
+2.2 Support vector learning
 
-3.3 Representation learning
+3 **Neural Networks**
 
-4 **Learning**
+3.1 Neural networks basics
 
-4.1 Support vector learning
+3.2 Deep learning
 
-4.2 Random forest learning
+4 **Probabilistic Programming**
 
-4.3. Neural network learning 
+4.1 Bayesian Methods
 
-4.4 Deep learning
+4.2 Inference
 
-5 **Discovering**
+4.3 Deep probabilistic models
 
-5.1 Mixture densities 
-
-5.2 Latent topic models
-
-5.3 Matrix factorization
-
-6 **Implementing**
-
-6.1 Experimental design
-
-6.2 Large scale machine learning

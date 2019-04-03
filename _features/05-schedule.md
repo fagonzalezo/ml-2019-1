@@ -15,8 +15,8 @@ image:
 			<th>Assignments</th>
 		</tr>
 			<tr>
-				<td>Feb 7</td>
-				<td>1. Introduction</td>
+				<td>Apr 3</td>
+				<td>1.1 Introduction</td>
 				<td>
 					Brief Introduction to ML (<a href= "introduction_ml.pdf">slides</a>)<br>
 					<a href= "http://videolectures.net/bootcamp07_keller_bss/">Linear Algebra and Probability Review</a> (part 1 Linear Algebra, part 2 Probability)
@@ -26,8 +26,8 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Feb 14</td>
-				<td>2.1 Bayesian decision theory</td>
+				<td>Apr 10</td>
+				<td>1.2 Bayesian decision theory</td>
 				<td>
 					[Alp10] Chap 3 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap3-v1-0.pdf">slides</a>)<br>
 				</td>
@@ -35,19 +35,18 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Feb 21</td>
-				<td>2.2 Estimation</td>
+				<td>Apr 17</td>
+				<td>1.3 Estimation</td>
 				<td>
 					[Alp10] Chap 4 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap4-v1-0.pdf">slides</a>)<br>
 					Bias and variance (<a href= "http://nbviewer.ipython.org/6788818">IPython notebook</a>)<br>
 				</td>
 				<td>
-				<a href= "assign2.pdf">Assignment 2</a>
 				</td>
 			</tr>
 			<tr>
-				<td>Feb 28</td>
-				<td>2.3 Linear models</td>
+				<td>Apr 24</td>
+				<td>1.4 Linear models</td>
 				<td>
 					[Alp10] Chap 10 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap10-v1-0.pdf">slides</a>)<br>
 				</td>
@@ -55,8 +54,16 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Mar 7</td>
-				<td>3.2 Kernel methods</td>
+				<td>May 1</td>
+				<td>1.5 Design and analysis of ML experiments</td>
+				<td>
+					[Alp10] Chap 19 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>)<br>
+				</td>
+				<td>
+				</td>
+			</tr>
+				<td>May 8</td>
+				<td>2.1 Kernel methods basics</td>
 				<td>
 					Introduction to kernel methods (<a href= "https://fagonzalezo.github.io/ml-2016-2/kernels.pdf">slides</a>)<br>
 					[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
@@ -65,8 +72,8 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Mar 14</td>
-				<td>4.1 Support vector learning</td>
+				<td>May 15</td>
+				<td>2.2 Support vector learning</td>
 				<td>
 					[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
 					<a href="http://axiom.anu.edu.au/%7Edaa/courses/GSAC6017/tekbac_4.pdf">An
@@ -75,12 +82,11 @@ image:
 						Vector Machine Tutorial</a>, Weston<br>
 				</td>
 				<td>
-				<a href= "assign3.pdf">Assignment 3</a>
 				</td>
 			</tr>
 			<tr>
-				<td>Mar 21</td>
-				<td>4.3. Neural network learning </td>
+				<td>May 22</td>
+				<td>3.1 Neural network basics </td>
 				<td>
 					[Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
 					Quick and dirty introduction to neural networks (<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">IPython notebook</a>)<br>
@@ -91,10 +97,9 @@ image:
 			</tr>
 			<tr>
 				<td>
-				  Apr 4-18
+				  May 25 - Jun 5
 				</td>
 				<td>
-				3.3 Representation learning <br>
 				4.4 Deep learning <br>
 				</td>
 				<td>
@@ -104,36 +109,28 @@ image:
 					<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">LSTM language model handout</a> <br>
 				</td>
 				<td>
-				<a href= "https://github.com/fagonzalezo/ml-2018-1/blob/master/assign4.ipynb">Assignment 4</a>
 				</td>
 			</tr>
 			<tr>
-				<td>Apr 25</td>
-				<td>4.2 Random forest learning</td>
+				<td>Jun 12</td>
+				<td>4.1 Bayesian methods</td>
 				<td>
-					[HTF09] Chap 15 (<a href= "http://statweb.stanford.edu/~tibs/ElemStatLearn/">book</a>)<br>
-					Random Forest and Boosting, Trevor Hastie (<a href= "http://www.slideshare.net/0xdata/gbm-27891077">slides</a>)<br>
-					Trees and Random Forest, Markus Kalisch (<a href= "https://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.1.pdf">slides1</a>, <a href= "https://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.2.pdf">slides2</a>)<br>
 				</td>
 				<td>
 				</td>
 			</tr>
 			<tr>
-				<td>May 2</td>
-				<td>5.1 Mixture densities </td>
+				<td>Jun 19</td>
+				<td>4.2 Inference</td>
 				<td>
-					[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)<br>
 				</td>
 				<td>
 				</td>
 			</tr>
 			<tr>
-				<td>May 9</td>
-				<td>5.2 Latent topic models<br>5.3 Matrix factorization </td>
+				<td>Jun 26</td>
+				<td>4.3 Deep probabilistic models</td>
 				<td>
-					Latent Semantic Analysis, CS158 Pomona College (<a href= "http://www.cs.pomona.edu/classes/cs158/resources/158-12(LSA).pdf">slides</a>)<br>
-					Latent Semantic Variable Models, Thomas Hofmann (<a href= "http://videolectures.net/slsfs05_hofmann_lsvm/">videolecture</a>)<br>
-					Non-negative Matrix Factorization for Multimodal Image Retrieval, Fabio González (<a href= "https://fagonzalezo.github.io/ml-2016-2/NMF-MM-IR.pdf">slides</a>)<br>
 				</td>
 				<td>
 				</td>
