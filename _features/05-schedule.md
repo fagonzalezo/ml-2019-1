@@ -99,7 +99,7 @@ image:
 				May 25 - Jun 5
 			</td>
 			<td>
-			4.4 Deep learning <br>
+			3.2 Deep learning <br>
 			</td>
 			<td>
 				Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
