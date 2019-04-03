@@ -61,6 +61,7 @@ image:
 			<td>
 			</td>
 		</tr>
+		<tr>
 			<td>May 8</td>
 			<td>2.1 Kernel methods basics</td>
 			<td>
