@@ -9,7 +9,7 @@ image:
 ### References
 
 
-* [Alp10] Alpaydin, E. [Introduction to Machine Learning](http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/), 2Ed. The MIT Press, 2010 
+* [Alp14] Alpaydin, E. [Introduction to Machine Learning](http://www.cmpe.boun.edu.tr/~ethem/i2ml3e/), 3Ed. The MIT Press, 2014 
 * [Mur12] Murphy, Kevin P. [Machine learning: a probabilistic perspective](http://www.cs.ubc.ca/~murphyk/MLbook/). The MIT Press, 2012. 
 * [Barber2013] Barber, David, [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage), Cambridge University Press, 2013.
 * [Bis06] Bishop, C.  [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/). Springer-Verlag, 2006

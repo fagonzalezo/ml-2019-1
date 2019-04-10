@@ -28,7 +28,7 @@ image:
 			<td>Apr 10</td>
 			<td>1.2 Bayesian decision theory</td>
 			<td>
-				[Alp10] Chap 3 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap3-v1-0.pdf">slides</a>)<br>
+				[Alp14] Chap 3 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf">slides</a>)<br>
 			</td>
 			<td>
 			</td>
