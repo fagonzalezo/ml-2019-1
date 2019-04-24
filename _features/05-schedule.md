@@ -37,10 +37,11 @@ image:
 			<td>Apr 17</td>
 			<td>1.3 Estimation</td>
 			<td>
-				[Alp10] Chap 4 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap4-v1-0.pdf">slides</a>)<br>
+				[Alp10] Chap 4 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
 				Bias and variance (<a href= "http://nbviewer.ipython.org/6788818">IPython notebook</a>)<br>
 			</td>
 			<td>
+			<a href= "assign2.pdf">Assignment 1</a>
 			</td>
 		</tr>
 		<tr>
