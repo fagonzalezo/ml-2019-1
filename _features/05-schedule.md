@@ -37,7 +37,7 @@ image:
 			<td>Apr 17</td>
 			<td>1.3 Estimation</td>
 			<td>
-				[Alp10] Chap 4 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
+				[Alp10] Chap 4, 5 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
 				Bias and variance (<a href= "http://nbviewer.ipython.org/6788818">IPython notebook</a>)<br>
 			</td>
 			<td>
@@ -45,16 +45,10 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 24</td>
-			<td>1.4 Linear models</td>
 			<td>
-				[Alp10] Chap 10 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap10-v1-0.pdf">slides</a>)<br>
+				Apr 24<br>
+				May 1
 			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>May 1</td>
 			<td>1.5 Design and analysis of ML experiments</td>
 			<td>
 				[Alp10] Chap 19 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>)<br>
