@@ -41,7 +41,7 @@ image:
 				Bias and variance (<a href= "http://nbviewer.ipython.org/6788818">IPython notebook</a>)<br>
 			</td>
 			<td>
-			<a href= "assign2.pdf">Assignment 1</a>
+			<a href= "assign2.pdf">Assignment 2</a>
 			</td>
 		</tr>
 		<tr>
