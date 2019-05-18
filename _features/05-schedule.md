@@ -77,6 +77,7 @@ image:
 					Vector Machine Tutorial</a>, Weston<br>
 			</td>
 			<td>
+			<a href= "assign3.pdf">Assignment 2</a>
 			</td>
 		</tr>
 		<tr>
