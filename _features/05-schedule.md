@@ -38,7 +38,7 @@ image:
 			<td>1.3 Estimation</td>
 			<td>
 				[Alp10] Chap 4, 5 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
-				Bias and variance (<a href= "http://nbviewer.ipython.org/6788818">IPython notebook</a>)<br>
+				Bias and variance (<a href= "http://nbviewer.ipython.org/6788818">Jupyter notebook</a>)<br>
 			</td>
 			<td>
 			<a href= "assign2.pdf">Assignment 2</a>
@@ -75,6 +75,7 @@ image:
 					introduction to ML</a>, Smola<br>
 				<a href="http://www1.cs.columbia.edu/%7Ekathy/cs4701/documents/jason_svm_tutorial.pdf">Support
 					Vector Machine Tutorial</a>, Weston<br>
+				Máquinas de vectores de soporte y selección de modelos (<a href="https://drive.google.com/file/d/1X4b_5FMHDs7EtbwPzw7YDeMF5V4pqoer/view?usp=sharing">Jupyter Notebook</a>)<br>
 			</td>
 			<td>
 			<a href= "assign3.pdf">Assignment 3</a>
@@ -85,8 +86,8 @@ image:
 			<td>3.1 Neural network basics </td>
 			<td>
 				[Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
-				Quick and dirty introduction to neural networks (<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">IPython notebook</a>)<br>
-				<a href= "backpropagation.pdf">Backpropagation derivation handout</a>
+				Quick and dirty introduction to neural networks (<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">Jupyter notebook</a>)<br>
+				<a href= "https://fagonzalezo.github.io/ml-2018-1/backpropagation.pdf">Backpropagation derivation handout</a>
 			</td>
 			<td>
 			</td>
