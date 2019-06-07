@@ -94,7 +94,7 @@ image:
 		</tr>
 		<tr>
 			<td>
-				May 25 - Jun 5
+				May 29 
 			</td>
 			<td>
 			3.2 Deep learning <br>
@@ -102,10 +102,20 @@ image:
 			<td>
 				Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
 				<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial</a> <br>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-CNN-sentence-classification.ipynb">CNN for text classification handout</a> <br>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">LSTM language model handout</a> <br>
 			</td>
 			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>Jun 5</td>
+			<td>3.2 Deep learning</td>
+			<td>
+				Deep learning frameworks (<a href= "ML Deep Learning Frameworks.pdf">slides</a>)<br>
+				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1jlmRcg5Ea1ysCf9NlOOQP9y3R8MufR-l">Jupyter notebook</a>)<br>
+				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/127-2M415lF-TFDe-T2tM_IZuhhU1yYhZ">Jupyter notebook</a>)<br>
+			</td>
+			<td>
+				<a href= "https://colab.research.google.com/drive/14P_7X4YE113kYcoCTZILMHL89fSaVJ7p">In-class Assignment 1</a><br>
 			</td>
 		</tr>
 		<tr>
