@@ -115,11 +115,29 @@ image:
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/127-2M415lF-TFDe-T2tM_IZuhhU1yYhZ">Jupyter notebook</a>)<br>
 			</td>
 			<td>
-				<a href= "https://colab.research.google.com/drive/14P_7X4YE113kYcoCTZILMHL89fSaVJ7p">In-class Assignment 1</a><br>
 			</td>
 		</tr>
 		<tr>
 			<td>Jun 12</td>
+			<td>3.2 Deep learning</td>
+			<td>
+				CNN for image classification en Keras (<a href= "https://colab.research.google.com/drive/1Wb94CUIJdB1Z-S6mFhxsxB4v6SzmF7sN">Jupyter notebook</a>)<br>
+			</td>
+			<td>
+				<a href= "https://colab.research.google.com/drive/14P_7X4YE113kYcoCTZILMHL89fSaVJ7p">In-class Assignment 1</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td>Jun 19</td>
+			<td>3.2 Deep learning</td>
+			<td>
+				Recurrent NNs and LSTMs for language modeling (Jupyter notebook)<br>
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>Jun 26</td>
 			<td>4.1 Bayesian methods</td>
 			<td>
 			</td>
@@ -127,7 +145,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 19</td>
+			<td>Jul 3</td>
 			<td>4.2 Inference</td>
 			<td>
 			</td>
@@ -135,7 +153,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 26</td>
+			<td>Jul 10</td>
 			<td>4.3 Deep probabilistic models</td>
 			<td>
 			</td>
