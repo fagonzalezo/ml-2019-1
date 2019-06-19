@@ -122,6 +122,8 @@ image:
 			<td>3.2 Deep learning</td>
 			<td>
 				CNN for image classification en Keras (<a href= "https://colab.research.google.com/drive/1Wb94CUIJdB1Z-S6mFhxsxB4v6SzmF7sN">Jupyter notebook</a>)<br>
+				<a href= "https://cs.stanford.edu/people/karpathy/convnetjs/">ConvNetJS demos</a><br>
+				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a><br>
 			</td>
 			<td>
 				<a href= "https://colab.research.google.com/drive/14P_7X4YE113kYcoCTZILMHL89fSaVJ7p">In-class Assignment 1</a><br>
@@ -131,9 +133,11 @@ image:
 			<td>Jun 19</td>
 			<td>3.2 Deep learning</td>
 			<td>
-				Recurrent NNs and LSTMs for language modeling (Jupyter notebook)<br>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-CNN-sentence-classification.ipynb">CNN for text classification handout</a> <br>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">LSTM language model handout</a> <br>
 			</td>
 			<td>
+			<a href= "assign4.pdf">Assignment 4</a>
 			</td>
 		</tr>
 		<tr>
