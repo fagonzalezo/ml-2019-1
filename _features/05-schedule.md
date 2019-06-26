@@ -119,7 +119,7 @@ image:
 		</tr>
 		<tr>
 			<td>Jun 12</td>
-			<td>3.2 Deep learning</td>
+			<td>3.3 Convolutional neural networks</td>
 			<td>
 				CNN for image classification en Keras (<a href= "https://colab.research.google.com/drive/1Wb94CUIJdB1Z-S6mFhxsxB4v6SzmF7sN">Jupyter notebook</a>)<br>
 				<a href= "https://cs.stanford.edu/people/karpathy/convnetjs/">ConvNetJS demos</a><br>
@@ -131,7 +131,7 @@ image:
 		</tr>
 		<tr>
 			<td>Jun 19</td>
-			<td>3.2 Deep learning</td>
+			<td>3.4 Recurrent neural networks</td>
 			<td>
 				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-CNN-sentence-classification.ipynb">CNN for text classification handout</a> <br>
 				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">LSTM language model handout</a> <br>
@@ -142,15 +142,16 @@ image:
 		</tr>
 		<tr>
 			<td>Jun 26</td>
-			<td>4.1 Bayesian methods</td>
-			<td>
+			<td>3.5 Deep generative models</td>
+			<td>Deep generative models (<a href= "http://introtodeeplearning.com/materials/2019_6S191_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=yFBFl1cLYx8&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>) 
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>Jul 3</td>
-			<td>4.2 Inference</td>
+			<td>4.1 Bayesian Methods<br>
+			4.2 Inference</td>
 			<td>
 			</td>
 			<td>

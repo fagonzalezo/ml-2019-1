@@ -30,6 +30,12 @@ image:
 
 3.2 Deep learning
 
+3.3 Convolutional neural networks
+
+3.4 Recurrent neural networks
+
+3.5 Deep generative models
+
 4 **Probabilistic Programming**
 
 4.1 Bayesian Methods
