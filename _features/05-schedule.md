@@ -143,7 +143,7 @@ image:
 		<tr>
 			<td>Jun 26</td>
 			<td>3.5 Deep generative models</td>
-			<td>Deep generative models (<a href= "http://introtodeeplearning.com/materials/2019_6S191_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=yFBFl1cLYx8&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>) 
+			<td>Alexander Amini, Deep generative models (<a href= "http://introtodeeplearning.com/materials/2019_6S191_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=yFBFl1cLYx8&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>) 
 			</td>
 			<td>
 			</td>
@@ -151,8 +151,9 @@ image:
 		<tr>
 			<td>Jul 3</td>
 			<td>4.1 Bayesian Methods<br>
-			4.2 Inference</td>
+			4.2 Variational Bayes</td>
 			<td>
+			<td>Radford M. Neal, Bayesian Methods for Machine Learning (<a href= "https://www.cs.toronto.edu/~radford/ftp/bayes-tut.pdf">slides</a>)
 			</td>
 			<td>
 			</td>

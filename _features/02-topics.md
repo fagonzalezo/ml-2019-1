@@ -40,7 +40,7 @@ image:
 
 4.1 Bayesian Methods
 
-4.2 Inference
+4.2 Variational Bayes
 
-4.3 Deep probabilistic models
+4.3 Monte Carlo inference
 
