@@ -151,16 +151,19 @@ image:
 		<tr>
 			<td>Jul 3</td>
 			<td>4.1 Bayesian Methods<br>
-			4.2 Variational Bayes</td>
+			4.2 Monte Carlo inference</td>
 			<td>
-			<td>Radford M. Neal, Bayesian Methods for Machine Learning (<a href= "https://www.cs.toronto.edu/~radford/ftp/bayes-tut.pdf">slides</a>)
+			Radford M. Neal, Bayesian Methods for Machine Learning (<a href= "https://www.cs.toronto.edu/~radford/ftp/bayes-tut.pdf">slides</a>)<br>
+			Beery et al., Markov Chain Monte Carlo for Machine Learning, Adv Topics in ML, Caltech (<a href= "https://taehwanptl.github.io/lectures/lecture_04_20.pdf">slides</a>)<br>
+			Alex Rogozhnikov, <a href= "https://taehwanptl.github.io/lectures/lecture_04_20.pdf">Hamiltonian Monte Carlo explained
+			</a>
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>Jul 10</td>
-			<td>4.3 Deep probabilistic models</td>
+			<td>4.3 Variational Bayes</td>
 			<td>
 			</td>
 			<td>

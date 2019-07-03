@@ -40,7 +40,6 @@ image:
 
 4.1 Bayesian Methods
 
-4.2 Variational Bayes
+4.2 Monte Carlo inference
 
-4.3 Monte Carlo inference
-
+4.3 Variational Bayes
