@@ -165,6 +165,8 @@ image:
 			<td>Jul 10</td>
 			<td>4.3 Variational Bayes</td>
 			<td>
+			<a href= "https://colab.research.google.com/drive/1xIC_Y5T7IwkJz0SNQyRSlRfDf2fDRvbv">Variational Bayes in Tensorflow</a> <br>
+			<a href= "https://colab.research.google.com/drive/1xX11qB8Ls9t_wuvRYHQp1_v-qBImVkt1">Variational Autoencoders in Tensorflow</a> <br>
 			</td>
 			<td>
 			</td>
